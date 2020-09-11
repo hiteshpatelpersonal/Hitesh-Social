@@ -1,0 +1,7 @@
+.widget_hitesh-social-social .links { display: flex; flex-direction: row; list-style: none; }
+.widget_hitesh-social-social .links li a { display: block; background-size: 100%; width: 40px; height: 40px; margin-right: 20px; font-size: 0; }
+.widget_hitesh-social-social .links li.facebook a { background-image: url(../images/facebook.svg); }
+.widget_hitesh-social-social .links li.twitter a { background-image: url(../images/twitter.svg); }
+.widget_hitesh-social-social .links li.linkedin a { background-image: url(../images/linkedin.svg); }
+.twitter { margin-top: 0 !important; }
+.linkedin { margin-top: 0 !important; }
